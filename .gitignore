@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Vivado / xsim 生成物
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+*.wcfg
+xsim.dir/
+.Xil/
+webtalk*
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+
+# 报告生成的中间产物
+*.pdf
+*.png
+output/
+tmp/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
